@@ -15,6 +15,7 @@ The goal of the system is to identify students who may need academic support ear
 ---
 
 ## 📂 Folder Structure
+```
 student_performance_project/
 ├── app/
 │   └── streamlit_app.py
@@ -29,6 +30,7 @@ student_performance_project/
 │   └── 02_model_training.ipynb
 ├── README.md
 └── requirements.txt
+```
 
 
 **🚀 How to Run the Project (Very Simple)**
